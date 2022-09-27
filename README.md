@@ -45,7 +45,7 @@ import requests
 
 ## Running Tests
 
-To run tests, run the following command
+To get the output compile the code:
 
  Command Execution: 
 ```bash
