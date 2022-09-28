@@ -29,7 +29,7 @@ Python needs to be installed in your system.
 
 Request needs to be insalled
 ```bash
-  pip install request
+  pip install requests
 ```
 
 import json 
